@@ -1,0 +1,36 @@
+{
+  "name": "react-modal",
+  "version": "1.0.0",
+  "description": "React modal dialog component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarferrandiz/react-modal.git"
+  },
+  "author": "Óscar Ferrándiz",
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/react": "^3.1.7",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^15.0.1",
+    "eslint-plugin-import": "^2.6.1",
+    "eslint-plugin-jsx-a11y": "^5.1.0",
+    "eslint-plugin-react": "^7.1.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-dom": "^15.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/oscarferrandiz/react-modal/issues"
+  },
+  "homepage": "https://github.com/oscarferrandiz/react-modal#readme"
+}
